@@ -22,5 +22,5 @@ CambiaImmagine();
 
 function  haiVinto(src){
 if(src.src=="robben.jpg")
-document.getElementById.textContent="hai vinto";
+alert("Hai Vinto");
 }	
